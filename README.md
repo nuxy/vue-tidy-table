@@ -4,8 +4,6 @@ Create a HTML table that can be sorted, selected, and post-processed using a sim
 
 ![Preview](https://raw.githubusercontent.com/nuxy/tidy-table/master/package.gif)
 
-Checkout the [demo](https://nuxy.github.io/tidy-table) for examples of use.
-
 ## Features
 
 - Extensible HTML/CSS interface.
@@ -15,6 +13,8 @@ Checkout the [demo](https://nuxy.github.io/tidy-table) for examples of use.
 - Customizable callback functions for post-processing selected results.
 - Post-process options for manipulating table/column/menu elements.
 - Fast and lightweight (JavaScript plug-in *only 4 kB)
+
+Checkout the [demo](https://nuxy.github.io/tidy-table) for examples of use.
 
 ## Dependencies
 
