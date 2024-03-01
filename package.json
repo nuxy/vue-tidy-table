@@ -1,6 +1,6 @@
 {
   "name": "vue-tidy-table",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create a HTML table that can be sorted, selected, and post-processed using a simple callback.",
   "main": "src/vue-tidy-table.js",
   "scripts": {
