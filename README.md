@@ -1,6 +1,6 @@
 # Vue Tidy Table [![npm version](https://badge.fury.io/js/vue-tidy-table.svg)](https://badge.fury.io/js/vue-tidy-table) [![](https://img.shields.io/npm/dm/vue-tidy-table)](https://www.npmjs.com/package/vue-tidy-table)
 
-Create a HTML table that can be sorted, selected, and post-processed using a simple callback.
+Create a HTML table that can be sorted, selected, and post-processed.
 
 ![Preview](https://raw.githubusercontent.com/nuxy/tidy-table/master/package.gif)
 
