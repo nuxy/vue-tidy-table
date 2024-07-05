@@ -1,4 +1,4 @@
-# Vue Tidy Table [![npm version](https://badge.fury.io/js/vue-tidy-table.svg)](https://badge.fury.io/js/vue-tidy-table) [![](https://img.shields.io/npm/dm/vue-tidy-table)](https://www.npmjs.com/package/vue-tidy-table)
+# Vue Tidy Table [![npm version](https://badge.fury.io/js/vue-tidy-table.svg)](https://badge.fury.io/js/vue-tidy-table) [![](https://img.shields.io/npm/dm/vue-tidy-table)](https://www.npmjs.com/package/vue-tidy-table) [![Install size](https://packagephobia.com/badge?p=vue-tidy-table)](https://packagephobia.com/result?p=vue-tidy-table) [![](https://img.shields.io/github/v/release/nuxy/vue-tidy-table)](https://github.com/nuxy/vue-tidy-table/releases)
 
 Create a HTML table that can be sorted, selected, and post-processed.
 
