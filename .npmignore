@@ -1,5 +1,5 @@
-.babelrc
 .eslintrc
 .vscode
+babel.config.json
 demo
 node_modules
